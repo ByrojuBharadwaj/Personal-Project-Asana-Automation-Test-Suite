@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Playwright
+playwright-report/
+playwright/.cache/
+test-results/
+
+# IDE
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
