@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# QA-Automation-Engineer-Loop-Software-Testing-Services
-Loop Technical Evaluation
-=======
+
 # Asana Automation Test Suite
 
 A data-driven Playwright test suite in TypeScript for testing an Asana-like demo application.
@@ -153,4 +150,5 @@ This approach prevents false positives by ensuring tasks are found in the correc
 ## License
 
 ISC
+
 >>>>>>> 9a1a010 (Initial commit:Loop Technical Evaluation Submission)
